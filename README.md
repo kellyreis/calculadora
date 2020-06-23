@@ -1,9 +1,7 @@
-# calculadora
-Este projeto foi iniciado com o aplicativo Create React. Projeto desenvolvido no curso de REACT NATIVE + REDUX 
-[Cod3rcursos] ( https://github.com/cod3rcursos) 
 
 
-![capa](https://user-images.githubusercontent.com/25619397/83980662-e4f1f880-a8ed-11ea-807e-0978f1ae6124.jpg)
+![32461- Convertido](https://user-images.githubusercontent.com/25619397/85428952-57044780-b554-11ea-88b9-cbebd117db41.jpg)
+
 
 
 
